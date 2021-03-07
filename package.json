@@ -1,5 +1,5 @@
 {
-  "name": "react desde cero",
+  "name": "react-desde-cero",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "ed-grid": "^3.0.2",
     "edteam-style-guides": "^0.0.79",
     "node-sass": "^5.0.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
@@ -37,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ed": "0.0.1",
+    "grid": "^3.3.7"
   }
 }
